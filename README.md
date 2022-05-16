@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @tiago-code
-- 👀 I’m interested in html, c, java
-- 🌱 I’m currently learning web building
-- 💞️ I’m looking to collaborate on web area
+- 👀 I’m interested in html, c#, python
+- 🌱 I’m currently learning unity game engine
+- 💞️ I’m looking to collaborate on games dev
